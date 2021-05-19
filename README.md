@@ -1,1 +1,1 @@
-# -Study-Deep-Learning-from-Scratch-
+# STUDY_deep_learning_from_Scratch
